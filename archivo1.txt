@@ -1,2 +1,4 @@
 Contenido inicial
 Nueva línea en archivo1
+Nueva línea en archivo1
+Nueva línea en archivo1
